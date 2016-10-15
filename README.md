@@ -2,6 +2,7 @@
 Final project for the class of Systems Programming, consists of a simple key-value store with a client API and fault tolerance implemented.
 
 **Language:** Portuguese
+
 **Authors:** Francisco Eiras and Miguel Cardoso
 
 ## Compiling
